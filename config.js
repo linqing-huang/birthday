@@ -31,7 +31,7 @@ var config = {
         balloons_flying: "还有气球！",
         cake_fadein: "吃个小蛋糕～",
         light_candle: "点上小蜡烛～",
-        wish_message: "生日快乐！",
+        wish_message: "OJO生日快乐！",
         story: "祝贺饺子长大一岁！穿新鞋薅快乐小羊去咯～",
     }
 };
